@@ -1,7 +1,7 @@
 ## Welcome to my solution to Google Hash Code 2021 
 
 Here is my personal solution to google hash code 2021
-I was able to score 9,555,886 with this solution but it was during the extended round not the main round.
+I was able to score 9,555,584 with this solution but it was during the extended round not the main round.
 
 ### More details about the solution
 

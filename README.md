@@ -16,4 +16,4 @@ The solution focused on two main numbers to produce this results:
 Intuitively if you have two streets with 5 cars on the first street and 2 cars on the second street. You want to open the first street for 5 seconds and then the second street for 2 seconds (or the second then the first). So i took the initial numbers of cars in the street as a factor. Then the second factor is the total number of cars passing by the street during the simulation. So i used the total number of cars to decide how long will i open this street. Then i used both factors to decide the time for opening this street. I added a weight for each factor and then played around with this weight from 0% to 100% and each percentage / balance generated a better score for a specific test case.
 
 
-##[Google Hash Code Link](https://codingcompetitions.withgoogle.com/hashcode/)
+## [Google Hash Code Link](https://codingcompetitions.withgoogle.com/hashcode/)
